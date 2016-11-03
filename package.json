@@ -1,0 +1,9 @@
+{
+  "name": "iot-fitbit",
+  "version": "0.0.0",
+  "description": "IotFitbit",
+  "main": "app.js",
+  "author": {
+    "name": "sreeram"
+  }
+}
